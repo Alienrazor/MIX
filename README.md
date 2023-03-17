@@ -8,7 +8,9 @@ pkg install nano php -y (enter)
 pip2 install mechanize (enter)  
 pip2 install --upgrade pip (enter)  
 pip2 install requets (enter)
-
+git clone https://github.com/Alienrazor/MIX.git
+cd MIX
+bash run.py
 ```
 <p align="center">
 
