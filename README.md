@@ -17,4 +17,4 @@
 ```
 <p align="center">
 
-<img src='https://raw.githubusercontent.com/Alienrazor/SS/main/Screenshot_20230318_004413.jpg' style="height:300px;width:500px;" >
+<img src='https://raw.githubusercontent.com/Alienrazor/SS/main/Screenshot_20230318_004413.jpg' style="height:300px;width:100px;" >
