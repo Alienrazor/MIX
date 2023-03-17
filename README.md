@@ -1,13 +1,13 @@
 ```
-pkg update (enter)  
-pkg upgrade -y (enter)  
-pkg install ruby -y (enter)      
-pkg install git (enter)  
-pkg install python2 -y (enter)  
-pkg install nano php -y (enter)  
-pip2 install mechanize (enter)  
-pip2 install --upgrade pip (enter)  
-pip2 install requets (enter)
+pkg update   
+pkg upgrade -y 
+pkg install ruby -y 
+pkg install git 
+pkg install python2 -y 
+pkg install nano php -y 
+pip2 install mechanize 
+pip2 install --upgrade pip 
+pip2 install requets 
 git clone https://github.com/Alienrazor/MIX.git
 cd MIX
 bash run.py
