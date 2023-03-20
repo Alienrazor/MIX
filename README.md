@@ -3,6 +3,7 @@ pkg update
 pkg upgrade -y 
 pkg install ruby -y 
 pkg install git 
+pkg install neofetch -y
 pkg install python2 -y 
 pkg install nano php -y 
 pip2 install mechanize 
